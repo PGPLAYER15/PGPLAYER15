@@ -11,10 +11,6 @@ Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en
 - Bases de datos: MySQL
 - Herramientas de control de versiones: Git, GitHub
 
-## Experiencia
-- Pasantía en la empresa XYZ, donde participé en el desarrollo de un sistema de gestión de incidentes.
-- Colaboración en proyectos de código abierto en GitHub, contribuyendo a la mejora de bibliotecas y herramientas.
-
 ## Educación
 - Estudiante de Ingeniería en Software en la Universidad Autónoma de Occidente.
 
