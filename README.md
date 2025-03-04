@@ -6,7 +6,7 @@
 Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en las mejores empresas de big tech. Estoy apasionado por la tecnología y me encanta aprender constantemente sobre nuevas herramientas, lenguajes de programación y metodologías de desarrollo.
 
 ## Habilidades
-- Lenguajes de programación: Python, Java, JavaScript
+- Lenguajes de programación: Python, Java, JavaScript, C#
 - Frameworks y bibliotecas: React
 - Bases de datos: MySQL
 - Herramientas de control de versiones: Git, GitHub
