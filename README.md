@@ -3,7 +3,7 @@
 # Hola, soy Marco 👋
 
 ## Sobre mí
-Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en las mejores empresas de big tech. Estoy apasionado por la tecnología y me encanta aprender constantemente sobre nuevas herramientas, lenguajes de programación y metodologías de desarrollo.
+Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en las mejores empresas de big tech. Soy apasionado por la tecnología y me encanta aprender constantemente sobre nuevas herramientas, lenguajes de programación y metodologías de desarrollo , me encanta el desarrollo de software y estoy interesado por aprender sobre Inteligencia Aartifical.
 
 ## Habilidades
 - Lenguajes de programación: Python, Java, JavaScript, C#
