@@ -17,6 +17,9 @@ Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en
 ## Contacto
 [LinkedIn](https://www.linkedin.com/in/marco-vinicio-palazuelos-leon)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@PGPLAYER/30-nites-of-code)  
+  ![@PGPLAYER #30NitesOfCode](https://www.codedex.io/api/petStatus?user=PGPLAYER)
 <!--
 **PGPLAYER15/PGPLAYER15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 }
