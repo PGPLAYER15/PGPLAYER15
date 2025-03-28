@@ -1,4 +1,3 @@
-¡Excelente! Aquí está el readme con la sintaxis de Markdown mejorada:
 
 # Hola, soy Marco 👋
 
