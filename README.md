@@ -7,7 +7,7 @@ Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en
 ## Habilidades
 - Lenguajes de programación: Python, Java, JavaScript, C#
 - Frameworks y bibliotecas: React , FastAPI , Node.js
-- Bases de datos: MySQL
+- Bases de datos: MySQL ,PostgreSQL , SQLITE
 - Herramientas de control de versiones: Git, GitHub
 
 ## Educación
