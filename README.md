@@ -13,10 +13,6 @@ Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en
 ## Educación
 - Estudiante de Ingeniería en Software en la Universidad Autónoma de Occidente.
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@PGPLAYER/30-nites-of-code)  
-  ![@PGPLAYER #30NitesOfCode](https://www.codedex.io/api/petStatus?user=PGPLAYER)
-
 ## Contacto
 [LinkedIn](https://www.linkedin.com/in/marco-vinicio-palazuelos-leon)
 
