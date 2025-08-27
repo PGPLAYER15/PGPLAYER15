@@ -14,7 +14,7 @@ Soy un estudiante de ingeniería en software que tiene como objetivo trabajar en
 - Estudiante de Ingeniería en Software en la Universidad Autónoma de Occidente.
 
 ## Contacto
-[LinkedIn](https://www.linkedin.com/in/marco-vinicio-palazuelos-leon)
+[LinkedIn](https://www.linkedin.com/in/marcopalazuelos/)
 
 
 <!--
